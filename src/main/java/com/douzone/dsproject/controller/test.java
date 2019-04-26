@@ -8,7 +8,7 @@ public class test {
 	
 	@RequestMapping("")
 	public String test() {
-		System.out.println("@@@@");
+//		System.out.println("@@@@");
 		return "/WEB-INF/views/index.jsp";
 	}
 }
