@@ -44,6 +44,8 @@
          <version>1.1.2</version>
       </dependency>
    </dependencies>
+   
+   <!-- jenking에 반드시 필요  -->
    <build>
       <plugins>
          <plugin>
